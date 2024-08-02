@@ -1,2 +1,2 @@
 # Data-Realm
-All about data...
+Some early days of exploring data analysis, not perfect but can be quite helpful for beginners
