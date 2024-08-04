@@ -1,2 +1,2 @@
 # Data-Realm
-A library consisting of a plathora of notebooks
+A library consisting of a plathora of notebooks you can learn from...
